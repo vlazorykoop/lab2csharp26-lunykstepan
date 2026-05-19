@@ -1,0 +1,14 @@
+D:\labs\кросплатформ\lab2\bin\Debug\net10.0\lab2.exe
+D:\labs\кросплатформ\lab2\bin\Debug\net10.0\lab2.deps.json
+D:\labs\кросплатформ\lab2\bin\Debug\net10.0\lab2.runtimeconfig.json
+D:\labs\кросплатформ\lab2\bin\Debug\net10.0\lab2.dll
+D:\labs\кросплатформ\lab2\bin\Debug\net10.0\lab2.pdb
+D:\labs\кросплатформ\lab2\obj\Debug\net10.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\labs\кросплатформ\lab2\obj\Debug\net10.0\lab2.AssemblyInfoInputs.cache
+D:\labs\кросплатформ\lab2\obj\Debug\net10.0\lab2.AssemblyInfo.cs
+D:\labs\кросплатформ\lab2\obj\Debug\net10.0\lab2.csproj.CoreCompileInputs.cache
+D:\labs\кросплатформ\lab2\obj\Debug\net10.0\lab2.dll
+D:\labs\кросплатформ\lab2\obj\Debug\net10.0\refint\lab2.dll
+D:\labs\кросплатформ\lab2\obj\Debug\net10.0\lab2.pdb
+D:\labs\кросплатформ\lab2\obj\Debug\net10.0\lab2.genruntimeconfig.cache
+D:\labs\кросплатформ\lab2\obj\Debug\net10.0\ref\lab2.dll
